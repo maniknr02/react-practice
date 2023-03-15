@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.ebbe3427.css",
+    "main.js": "/react-practice/static/js/main.75982b4b.js",
+    "static/js/787.f3d7924f.chunk.js": "/react-practice/static/js/787.f3d7924f.chunk.js",
+    "static/media/ufc.mp4": "/react-practice/static/media/ufc.cf082e59f835a0851380.mp4",
+    "static/media/UFC_Logo.svg": "/react-practice/static/media/UFC_Logo.b7b0df2226958a70a16466f3198179a4.svg",
+    "index.html": "/react-practice/index.html",
+    "main.ebbe3427.css.map": "/react-practice/static/css/main.ebbe3427.css.map",
+    "main.75982b4b.js.map": "/react-practice/static/js/main.75982b4b.js.map",
+    "787.f3d7924f.chunk.js.map": "/react-practice/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbe3427.css",
+    "static/js/main.75982b4b.js"
+  ]
+}
