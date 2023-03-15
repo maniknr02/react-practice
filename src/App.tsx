@@ -1,6 +1,15 @@
 import "./App.css";
+import { BodyComponent } from "./Components/BodyComponent";
+import { FooterComponent } from "./Components/FooterComponent";
+import { HeaderComponent } from "./Components/HeaderComponent";
 function App() {
-  return <h1>Hello World</h1>;
+  return (
+    <div>
+      <HeaderComponent />
+      <BodyComponent />
+      <FooterComponent />
+    </div>
+  );
 }
 
 export default App;
