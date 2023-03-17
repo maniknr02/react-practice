@@ -1,0 +1,66 @@
+[
+  {
+    "profile": "virat",
+    "role": "Cricketer",
+    "skills": ["Agility", "Fielding", "Cover Drives", "aggressive"],
+    "name": "VIRAT KOHLI",
+    "city": "Delhi",
+    "country": "India",
+    "intro": "He is a disciplined sportsman who never gives up and tries his best till the end. Cricket is his passion and his life ",
+    "status": "active",
+    "premium": true
+  },
+  {
+    "profile": "chris",
+    "role": "Actor",
+    "skills": ["Acting", "Dancing", "Singing ", "Comedian", "Athletic"],
+    "name": "CHRIS HEMSWORTH",
+    "city": "Melbourne",
+    "country": "Australia",
+    "intro": "He's the god of thunder and lightning, who always possesses a hammer (Mjollnir) and never backs out from a fight.",
+    "status": "2023-03-17 12:30:00:000",
+    "premium": true
+  },
+  {
+    "profile": "conor",
+    "role": "Fighter",
+    "skills": ["Left Hook", "Boxing", "Billionarie Strut"],
+    "name": "CONOR McGREGOR",
+    "city": "Dublin",
+    "country": "Ireland",
+    "intro": "Conor Anthony McGregor is an Irish professional mixed martial artist. ... McGregor's boxing is typically considered his best skill",
+    "status": "2023-03-17 06:45:00:000",
+    "premium": true
+  },
+  {
+    "profile": "luffy",
+    "role": "Pirate",
+    "skills": ["Rubber Man", "Conquerer's Haki", "Advanced Haki"],
+    "name": "MONKEY.D.LUFFY",
+    "city": "Hidden Leaf Village",
+    "country": "Japan",
+    "intro": "Monkey D. Luffy, also known as 'Strawhat luffy', is the main protagonist of the manga and anime",
+    "status": "active"
+  },
+  {
+    "profile": "naruto_uzumaki",
+    "role": "Hokage",
+    "skills": ["Ninjutsu", "Taijutsu", "Sage Mode", "Jinchukuri"],
+    "name": "NARUTO UZUMAKI",
+    "city": "Hidden Leaf Village",
+    "country": "Japan",
+    "intro": "Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is  jinchūriki of the Nine-Tails and shinobi of the leaf",
+    "status": "2023-01-16 00:00:00:000"
+  },
+  {
+    "profile": "ichigo",
+    "role": "Shinigami",
+    "skills": ["Hollow Powers", "Shinigami Powers", "Quincy Powers"],
+    "name": "ICHIGO KUROSAKI",
+    "city": "Karakura Town",
+    "country": "Japan",
+    "intro": "Ichigo Kurosaki (黒崎 一護, Kurosaki Ichigo) is a Human who is also a Substitute Shinigami,He is 'Bleach' protagonist",
+    "status": "2023-03-13 12:00:00:000",
+    "premium": true
+  }
+]
