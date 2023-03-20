@@ -1,38 +1,78 @@
-.App {
+.checkbox {
+  width: 20px;
+  height: 20px;
+  background-color: antiquewhite;
+  position: relative;
+  border-radius: 5px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.task {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 10px;
+}
+.strike {
+  text-decoration: line-through;
+}
+input {
+  background-color: gray;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.head {
+  color: white;
+  background-color: black;
+  padding: 1rem 2rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main {
+  width: 20rem;
+  height: 30rem;
+  background-color: gray;
+  text-shadow: 0 0 5px black;
+  position: relative;
+}
+.form {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.body {
+  padding: 1rem 2rem;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  overflow-y: scroll;
+  height: 18.5rem;
+}
+.delete {
+  position: absolute;
+  bottom: 0;
+  padding: 1rem;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+}
+.delete button {
+  background-color: red;
+  color: white;
+  width: 60%;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  text-shadow: 0 0 2px black;
+}
+button,
+input {
+  border-radius: 5px;
+  font-size: 15px;
+}
+.add {
+  background-color: rgb(9, 223, 9);
+  color: white;
+  font-weight: 600;
+  text-shadow: 0 0 2px black;
+}
+input:hover {
+  cursor: pointer;
 }
